@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 BLAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHh
 =======
 BLAH
@@ -7,3 +8,6 @@ BLAH
 =======
 BLAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHh
 >>>>>>> 9394829 (commiting modification for file 2)
+=======
+BLAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHh
+>>>>>>> 654bf0ab76da18cbaaf206b64d563fc789e85640
