@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+BLAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHh
+=======
 BLAH
+>>>>>>> 90ec362 (add file2)
+=======
+BLAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHh
+>>>>>>> 9394829 (commiting modification for file 2)
